@@ -1,4 +1,14 @@
-# chat_prompt_depot
+# ChatGPT_Prompt_Depot
+
+## 目录
+
+### JOB
+
+这一块 prompt 需要做一些整理, 然后列出索引
+
+### Video Subtitle
+
+- [coursera课程的视频字幕处理](./video-subtitle/coursera.md)
 
 ## 资源
 
