@@ -9,6 +9,9 @@
 ### Video Subtitle
 
 - [coursera课程的视频字幕处理](./video-subtitle/coursera.md)
+- youtube
+	- 对话视频处理
+	- [单人视频处理](./video-subtitle/youtube_signal.md)
 
 ## 资源
 
